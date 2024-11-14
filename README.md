@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-</head>
-<body>
+---
+title: "Guía Paso a Paso: Resolución de Ejercicios de Análisis Matemático II"
+output:
+  html_document:
+    includes:
+      in_header: header.html
+---
 
 # Guía Paso a Paso: Resolución de Ejercicios de Análisis Matemático II
 
@@ -63,6 +63,3 @@ Para hallar la ecuación del plano tangente de \( f(x, y) \) en un punto \( (x_0
 ---
 
 ¡Buena suerte en tu examen!
-
-</body>
-</html>
